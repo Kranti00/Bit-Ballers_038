@@ -19,7 +19,7 @@ Frontend | Backend
 
 ### Deployed Link
 
--[Link]()
+-[Link](https://er-diagram-builder01.netlify.app/)
 
 ### Directory Structure
 
