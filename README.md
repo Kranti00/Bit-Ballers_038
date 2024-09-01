@@ -84,8 +84,9 @@ https://github.com/Kranti00/Bit-Ballers_038.git
 
 ## Project Collaborators
 
-Aman Raj-amanraj98523
-Aarohi singh-Aarohiparasar
+-Aman Raj-amanraj98523
+-Aarohi singh-Aarohiparasar
+-Kranti Kumar-Kranti00
 
 
 
